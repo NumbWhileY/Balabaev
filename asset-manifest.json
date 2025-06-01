@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Balabaev/static/css/main.83e67c51.css",
+    "main.js": "/Balabaev/static/js/main.6c0dfb9f.js",
+    "index.html": "/Balabaev/index.html",
+    "main.83e67c51.css.map": "/Balabaev/static/css/main.83e67c51.css.map",
+    "main.6c0dfb9f.js.map": "/Balabaev/static/js/main.6c0dfb9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e67c51.css",
+    "static/js/main.6c0dfb9f.js"
+  ]
+}
